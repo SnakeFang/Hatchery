@@ -24,6 +24,9 @@ version = "0.1.7"
 group= "com.gendeathrow.hatchery" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "hatchery-1.10.2"
 
+sourceCompatibility=1.8
+targetCompatibility=1.8
+
 minecraft {
     version = "1.10.2-12.18.2.2099"
     runDir = "run"
